@@ -21,7 +21,7 @@ int main()
 	scanf_s("%d", &p);
 
 	i = n;
-
+	//
 	while (n > 0)
 
 	{
